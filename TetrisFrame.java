@@ -1,5 +1,3 @@
-package se.liu.ida.ludno249.tddd78.lab4;
-
 import javax.swing.*;
 import java.awt.*;
 
